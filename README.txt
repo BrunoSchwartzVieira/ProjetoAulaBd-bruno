@@ -1,7 +1,3 @@
-Aqui está um exemplo de um README para documentar o sistema de gerenciamento de clientes e agenda:
-
----
-
 - Sistema de Gerenciamento de Clientes e Agenda
 
 - Descrição
