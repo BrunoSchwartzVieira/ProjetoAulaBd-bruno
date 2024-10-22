@@ -1,4 +1,4 @@
-Alunos: Bruno Henrique Nathan
+Alunos: Bruno Henrique e Nathan
 
 - Sistema de Gerenciamento de Clientes e Agenda
 
